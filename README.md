@@ -17,3 +17,5 @@ Twilight is a wallpaper program written by Howard Look for SGI's "Irix" computer
 * C++ compiler, default is gcc
 
 The makefile does require you to configure the library and include directories for SDL2.
+
+Small change for a presentation :)
